@@ -7,18 +7,18 @@ Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflecti
 - Blog/Reflection: [Reflection #1](./posts/first_reflection.md)
 
 or have a button
-<a href="./posts/first_reflection.md">
-  <button style="
-    padding: 10px 16px;
-    font-size: 14px;
-    background-color: #2da44e;
-    color: white;
-    border: none;
-    border-radius: 6px;
-    cursor: pointer;
-  ">
+<a href="./posts/first_reflection.md"
+  style="
+     display: inline-block;
+     padding: 10px 16px;
+     font-size: 14px;
+     background-color: #2da44e;
+     color: white;
+     text-decoration: none;
+     border-radius: 6px;
+     font-weight: 600;
+   ">
     Reflection #1
-  </button>
 </a>
 
 
