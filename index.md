@@ -7,7 +7,7 @@ This is a sample website.
 - Blog/Reflection: [Reflection #1](./posts/first_reflection.md)
 
 or have a button:
-<a href="./posts/first_reflection.md">
+<a href="http://./posts/first_reflection.html">
   <button 
     style="
      display: inline-block;
