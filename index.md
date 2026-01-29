@@ -14,12 +14,12 @@ or have a button:
      padding: 10px 16px;
      font-size: 14px;
      background-color: #2da44e;
-     color: white;
+     color: black;
      text-decoration: none;
      border-radius: 6px;
      font-weight: 600;
    ">
-    Reflection #1
+    Images
     </button>
 </a>
 
@@ -28,4 +28,5 @@ or have a button:
 A short intro (interests, goals, tools I’m learning).
 
 ---
-*Update this page by editing `index.md` in your repository.*
+
+This is the first page
