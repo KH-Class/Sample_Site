@@ -7,8 +7,9 @@ Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflecti
 - Blog/Reflection: [Reflection #1](./posts/first_reflection.md)
 
 or have a button
-<a href="./posts/first_reflection.md"
-  style="
+<a href="./posts/first_reflection.md">
+  <button 
+    style="
      display: inline-block;
      padding: 10px 16px;
      font-size: 14px;
@@ -19,6 +20,7 @@ or have a button
      font-weight: 600;
    ">
     Reflection #1
+    </button>
 </a>
 
 
