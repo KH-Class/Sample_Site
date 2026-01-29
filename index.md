@@ -7,7 +7,7 @@ This is a sample website.
 - Blog/Reflection: [Reflection #1](./posts/first_reflection.md)
 
 or have a button:
-<a href="http://./posts/first_reflection.html">
+<a href="https://kh-class.github.io/Sample_Site/posts/first_reflection.html">
   <button 
     style="
      display: inline-block;
